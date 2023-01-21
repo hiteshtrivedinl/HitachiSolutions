@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="1">
+    <test name="Login test">
+        <classes>
+            <class name="navigation.TestHitachi"/>
+        </classes>
+    </test>
+</suite>
